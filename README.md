@@ -3,7 +3,7 @@
 it is unofficial repository maintained by me @hax4us. you can check available packages in README
 
 ### Install TermuXBlacK
-1. Just download installer script `wget https://github.com/Hax4us/TermuxBlack/raw/master/install.sh`
+1. Just download installer script `wget https://github.com/coolmanish01/TermuxBlack/raw/master/install.sh`
 2. Now run `bash install.sh`
 
 ### Inatall Package 
